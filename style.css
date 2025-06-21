@@ -54,6 +54,11 @@
       width: 100%;
     }
     
-    .hero{
-        
+    .hero>img{
+      display: flex;
+      flex-wrap:nowrap;
+      
     }
+
+        
+    
