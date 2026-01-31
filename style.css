@@ -1,3 +1,7 @@
+body{
+      margin:0 auto;
+      background-color:#FF7DB0;
+}
 .h1{
        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       }
@@ -5,3 +9,16 @@
         font-family:"fantasy";
       
   }
+.images{
+      display:flex;
+      gap: 50px;
+      justify-content: center;
+  }
+
+.images img {
+      border-radius: 20px;
+}
+.images img{
+      border-radius: 20px;
+
+}
